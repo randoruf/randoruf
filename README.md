@@ -1,7 +1,7 @@
 ### Hello 👋 
 
 - I'm an undergraduate student at Monash. 
-- **勉強**  日语的学习是勉强， **勤勉就能变强**。
+- **勉強第一**
 - 意志のあるところに、道は開ける。必死になれば、何でもできますはずです。
 - Resume: [CV](https://ran.moe/resume/)
 
