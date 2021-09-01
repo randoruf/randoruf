@@ -1,5 +1,4 @@
 ### Hello 👋 
-- **勉強第一**
 - 意志のあるところに、道は開ける。
 - Resume: [CV](https://randoruf.github.io/resume/)
 
