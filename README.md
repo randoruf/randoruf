@@ -5,6 +5,7 @@ Tech Skills:
 
 ![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=flat)
 ![SGX](https://img.shields.io/badge/SGX-24292e?style=flat-square&logo=intel&labelColor=24292e&color=474d56)&nbsp;
+![TrustZone](https://img.shields.io/badge/TrustZone-24292e?style=flat-square&logo=arm&labelColor=24292e&color=474d56)&nbsp;
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
 ![Android](https://img.shields.io/badge/Android-24292e?style=flat-square&logo=android&labelColor=24292e&color=474d56)&nbsp;
 
