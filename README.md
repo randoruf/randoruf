@@ -6,10 +6,10 @@ Tech Skills:
 ![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=flat)
 ![SGX](https://img.shields.io/badge/SGX-24292e?style=flat-square&logo=intel&labelColor=24292e&color=474d56)&nbsp;
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
-![android](https://img.shields.io/badge/android-24292e?style=flat-square&logo=android&labelColor=24292e&color=474d56)&nbsp;
+![Android](https://img.shields.io/badge/Android-24292e?style=flat-square&logo=android&labelColor=24292e&color=474d56)&nbsp;
 
-![Swift](https://img.shields.io/badge/Swift-24292e?style=flat-square&logo=swift&labelColor=24292e&color=474d56)&nbsp;
-![Objective-C](https://img.shields.io/badge/Objective_C-24292e?style=flat-square&logo=apple&labelColor=24292e&color=474d56)
+![TypeScript](https://img.shields.io/badge/language-TypeScript-%23F34B7D)&nbsp;
+![Kotlin](https://img.shields.io/badge/language-Kotlin-%23F34B7D)&nbsp;
 ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D)&nbsp;
 ![Java](https://img.shields.io/badge/language-java-%23B07219)&nbsp;
 
