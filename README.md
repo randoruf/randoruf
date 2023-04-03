@@ -3,16 +3,17 @@
 
 Tech Skills: 
 
-![Android](https://img.shields.io/badge/Android-24292e?style=flat-square&logo=Android&labelColor=24292e&color=474d56)&nbsp;
+![SGX](https://img.shields.io/badge/SGX-24292e?style=flat-square&logo=intel&labelColor=24292e&color=474d56)&nbsp;
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
+![iOS](https://img.shields.io/badge/iOS-24292e?style=flat-square&logo=ios&labelColor=24292e&color=474d56)&nbsp;
 
-![Kotlin](https://img.shields.io/badge/language-kotlin-blue)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-24292e?style=flat-square&logo=swift&labelColor=24292e&color=474d56)&nbsp;
+![Objective-C](https://img.shields.io/badge/Objective_C-24292e?style=flat-square&logo=apple&labelColor=24292e&color=474d56)
 ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D)&nbsp;
 ![Java](https://img.shields.io/badge/language-java-%23B07219)&nbsp;
 
-
 ![QtCreator](https://img.shields.io/badge/QtCreator-24292e?style=flat-square&logo=Qt)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-24292e?style=flat-square&logo=Android)&nbsp;
+![Xcode](https://img.shields.io/badge/Xcode%20Studio-24292e?style=flat-square&logo=xcode)&nbsp;
 ![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-24292e?style=flat-square&logo=markdown)&nbsp;
