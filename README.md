@@ -9,9 +9,9 @@ Tech Skills:
 ![Android](https://img.shields.io/badge/Android-24292e?style=flat-square&logo=android&labelColor=24292e&color=474d56)&nbsp;
 
 ![TypeScript](https://img.shields.io/badge/language-TypeScript-%233178C6)&nbsp;
-![Kotlin](https://img.shields.io/badge/language-Kotlin-%23F34B7D)&nbsp;
-![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D)&nbsp;
-![Java](https://img.shields.io/badge/language-java-%23B07219)&nbsp;
+![Kotlin](https://img.shields.io/badge/language-Kotlin-%23#7F52FF)&nbsp;
+![C++](https://img.shields.io/badge/language-C%2B%2B-%23F34B7D)&nbsp;
+![Java](https://img.shields.io/badge/language-Java-%23B07219)&nbsp;
 
 ![QtCreator](https://img.shields.io/badge/QtCreator-24292e?style=flat-square&logo=Qt)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode%20Studio-24292e?style=flat-square&logo=xcode)&nbsp;
