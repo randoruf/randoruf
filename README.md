@@ -9,7 +9,7 @@ Tech Skills:
 ![Android](https://img.shields.io/badge/Android-24292e?style=flat-square&logo=android&labelColor=24292e&color=474d56)&nbsp;
 
 ![TypeScript](https://img.shields.io/badge/language-TypeScript-%233178C6)&nbsp;
-![Kotlin](https://img.shields.io/badge/language-Kotlin-%23#7F52FF)&nbsp;
+![Kotlin](https://img.shields.io/badge/language-Kotlin-%237F52FF)&nbsp;
 ![C++](https://img.shields.io/badge/language-C%2B%2B-%23F34B7D)&nbsp;
 ![Java](https://img.shields.io/badge/language-Java-%23B07219)&nbsp;
 
