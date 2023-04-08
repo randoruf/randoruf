@@ -1,6 +1,11 @@
 
 意志のあるところに、道は開ける。🍭🍭🍭
 
+后端开发 / C# / Python / Kotlin / Go / PHP
+前端开发 / React / Vue
+移动端开发 / Flutter / Android
+桌面端开发 / Winform / PyQt
+
 OS: 
 ![SGX](https://img.shields.io/badge/SGX-24292e?style=flat-square&logo=intel&labelColor=24292e&color=474d56)&nbsp;
 ![TrustZone](https://img.shields.io/badge/TrustZone-24292e?style=flat-square&logo=arm&labelColor=24292e&color=474d56)&nbsp;
